@@ -1,7 +1,14 @@
+
 # Plugin & App Store System — Next.js Reference Implementation
 
 A reference implementation showing how to build a **plugin and app store system** —
 where features are sold and unlocked individually — using nothing but Next.js App Router, SQLite, and Server Actions.
+
+
+
+![名称未設定のデザイン](https://github.com/user-attachments/assets/b5c9dfec-44c9-4b85-ae12-af3badec452f)
+
+
 
 ---
 
