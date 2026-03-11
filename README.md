@@ -12,6 +12,42 @@ where features are sold and unlocked individually — using nothing but Next.js 
 
 ---
 
+## Quick Start (English)
+
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd dynamic
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser. The database (`data/db.sqlite`) is created automatically on first run.
+
+---
+
+## クイックスタート（日本語）
+
+```bash
+# リポジトリをクローン
+git clone <your-repo-url>
+cd dynamic
+
+# 依存関係をインストール
+npm install
+
+# 開発サーバーを起動
+npm run dev
+```
+
+ブラウザで [http://localhost:3000](http://localhost:3000) を開きます。データベース（`data/db.sqlite`）は初回起動時に自動生成されます。
+
+---
+
 ## English
 
 ### The Problem This Solves
