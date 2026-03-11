@@ -1,51 +1,11 @@
+![alt text](<readme-assets/Screenshot 2026-03-11 at 23.07.25.png>)
 
 # Plugin & App Store System — Next.js Reference Implementation
 
 A reference implementation showing how to build a **plugin and app store system** —
 where features are sold and unlocked individually — using nothing but Next.js App Router, SQLite, and Server Actions.
 
-
-
-![名称未設定のデザイン](https://github.com/user-attachments/assets/b5c9dfec-44c9-4b85-ae12-af3badec452f)
-
-
-
----
-
-## Quick Start (English)
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd dynamic
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser. The database (`data/db.sqlite`) is created automatically on first run.
-
----
-
-## クイックスタート（日本語）
-
-```bash
-# リポジトリをクローン
-git clone <your-repo-url>
-cd dynamic
-
-# 依存関係をインストール
-npm install
-
-# 開発サーバーを起動
-npm run dev
-```
-
-ブラウザで [http://localhost:3000](http://localhost:3000) を開きます。データベース（`data/db.sqlite`）は初回起動時に自動生成されます。
-
+![alt text](readme-assets/名称未設定のデザイン.gif)
 ---
 
 ## English
